@@ -86,7 +86,9 @@ export default class Sketch {
       a1 = (this.width/this.height) * this.imageAspect ;
       a2 = 1;
     } else{
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
       a1 = 1;
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
       a2 = (this.height/this.width) / this.imageAspect;
     }
 
@@ -107,7 +109,7 @@ export default class Sketch {
 
     this.cubeCamera = new THREE.CubeCamera(0.1,10,this.cubeRenderTarget)
 
-    let that = this;
+   
     this.material = new THREE.ShaderMaterial({
       extensions: {
         derivatives: "#extension GL_OES_standard_derivatives : enable"
