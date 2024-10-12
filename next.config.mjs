@@ -1,4 +1,16 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
+// next.config.js
+import withPlugins from 'next-compose-plugins';
 
-export default nextConfig;
+
+const nextConfig = {
+  webpack: (config) => {
+    config.module.rules.push({
+      test: /\.(glsl|vs|fs)$/,
+      use: 'raw-loader',
+    });
+    return config;
+  },
+  reactStrictMode: false,
+};
+
+export default withPlugins([], nextConfig);
