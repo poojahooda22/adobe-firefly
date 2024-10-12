@@ -7,7 +7,7 @@ First, run the development server:
 ```bash
 npm run dev
 
-pnpm de
+pnpm d
 # or
 bun dev
 ```
