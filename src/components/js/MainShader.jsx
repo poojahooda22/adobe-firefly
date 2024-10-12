@@ -166,8 +166,8 @@ export default class Sketch {
       const newX = gsap.utils.mapRange(0, window.innerWidth, -0.6, 0.7, x);
       const newY = gsap.utils.mapRange(0, window.innerHeight, -0.5, 0.5, y);
 
-      gsap.to(this.camera.position, {x: newX * 0.2, duration: 2})
-      gsap.to(this.camera.position, {y: -newY * 0.2, duration: 2})
+      gsap.to(this.camera.position, {x: newX * 0.4, duration: 2})
+      gsap.to(this.camera.position, {y: -newY * 0.4, duration: 2})
     })
   }
 
