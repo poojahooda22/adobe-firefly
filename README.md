@@ -10,7 +10,7 @@ You can start editing the page by modifying. The page auto-updates as you edit t
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Lea
+## Le
 To learn more about Next.js,
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
