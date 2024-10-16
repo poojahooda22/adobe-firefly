@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-First, run the development
+First, run the developmen
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying. The page auto-updates as you edit 
