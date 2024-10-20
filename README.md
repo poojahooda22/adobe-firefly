@@ -3,7 +3,7 @@ Open [http://localhost:3000](http://localhost
 You can start editin
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family
 
-- [Next.js Documentation](https://nextjs.org/docs) 
+- [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn)
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contribution
 
