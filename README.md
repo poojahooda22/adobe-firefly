@@ -3,6 +3,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 - [Next.js Documentation](https://nextjs.org/docs
 - [Learn Next.js](https://nextjs.
-You can check out [the Next.js GitHub repository](ht
+You can check out [the Next.js GitHub repository](h
 The easiest way to deploy your Next.js the [Vercel Platform](https://vercel.com/new?utm_medium=defaulttemplate&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
