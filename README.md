@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.rg) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize an load [Geist](https://vercel.com/font)
 
 - [Next.js Documentation](https://nextjs.org/do
 - [Learn Next.j
