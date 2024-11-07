@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.rg) project bootstrapped with [`create-nxtpp`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.rg) project bootstrapped with [`create-xtpp`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 This project uses [`next/fot`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimizea load [Geist](https://vercel.com/font)
 
 The easiest way to deploy your Ne.js the [Vercel latform(tp://co/daleet.s&utoccr
