@@ -2,4 +2,4 @@ This is a [Next.js](https://nextjs.rg) project bootstrapped with [`crea-xtpp`](h
 This project uses [`nextfot`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimizea load [Geist](https://vercel.com/font)
 
 The easiest way to deploy your Ne.js the [
-Check out our [Next.js deployment documentation](https://nexjs.org/docs/app/building-your-appliction/deploying)
+Check out our [Next.js deployment documentation](https://nexj.org/docs/app/building-your-appliction/deploying)
