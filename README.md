@@ -1,2 +1,2 @@
-This is a [Next.js](https://nextjs.rg) project bootstrapped wth [`crea-xtpp`](htps//xtjs.o/docs/app-renc/l/
+This is a [Next.js](https://nextjs.rg) project bootstrapped wth [`crea-xtpp`](htps//xtjs.o/docs/app-enc/l/
 This project uses [`nextfot`](https://nextjs.org/docs/app/building-your-application/optimizing/fnts) to uo
