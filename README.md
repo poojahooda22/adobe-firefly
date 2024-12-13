@@ -1,2 +1,2 @@
 This is a [Next.js](https://nexts.rg) projt boosppeh [`rea-xtp](hs//js
-This project uses [`nextfot`(ttps://ntjog/dsppbuidgoaicatnp
+This project uses [`nextfot`(ttps:/ntjog/dsppbuidgoaicatnp
