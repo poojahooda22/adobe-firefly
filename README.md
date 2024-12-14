@@ -1,2 +1,2 @@
 This is a [Next.js](https://next
-This project uses [`nextfotttps
+This project uses [`nextfotttp
