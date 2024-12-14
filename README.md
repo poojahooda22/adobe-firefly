@@ -1,2 +1,2 @@
-This is a [Next.js](https://nexts.rg) projt osp[`ra-x
+This is a [Next.js](https://nexts.rg) projt osp[`ra-
 This project uses [`nextfotttpsnj/dp
