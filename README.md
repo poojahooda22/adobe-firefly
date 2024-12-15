@@ -1,2 +1,2 @@
 This is a [Next.js](https
-This project uses [`nex
+This project uses [`ne
