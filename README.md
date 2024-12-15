@@ -1,2 +1,2 @@
 This is a [Next.js](
-This project uses
+This project use
